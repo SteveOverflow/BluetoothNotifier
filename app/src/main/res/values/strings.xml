@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Bluetooth Notifier</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="toggle_bton">Bluetooth On</string>
+    <string name="toggle_btoff">Bluetooth Off</string>
+    <string name="toggle_hangoutson">Hangouts On</string>
+    <string name="toggle_hangoutsoff">Hangouts Off</string>
+    <string name="toggle_facebookon">Facebook On</string>
+    <string name="toggle_facebookoff">Facebook Off</string>
+    <string name="toggle_otheron">Other On</string>
+    <string name="toggle_otheroff">Other Off</string>
+    <string name="btn_set_time">Set Time</string>
+</resources>
